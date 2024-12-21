@@ -199,6 +199,56 @@
       \endverb
       \keyw{{AI} and Bond Values: How Large Language Models Predict Default Signals,Moazzam Khoja,{SSRN}}
     \endentry
+    \entry{babaeiGPTClassificationsApplication2024}{article}{}
+      \name{author}{2}{}{%
+        {{hash=31956f5f0c1b92fef960e39353bfb3d4}{%
+           family={Babaei},
+           familyi={B\bibinitperiod},
+           given={Golnoosh},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3c81d4f45cf4aced45782e3f1978b2ac}{%
+           family={Giudici},
+           familyi={G\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{96b7b782a5bb3108306238045b0f9173}
+      \strng{fullhash}{96b7b782a5bb3108306238045b0f9173}
+      \strng{bibnamehash}{96b7b782a5bb3108306238045b0f9173}
+      \strng{authorbibnamehash}{96b7b782a5bb3108306238045b0f9173}
+      \strng{authornamehash}{96b7b782a5bb3108306238045b0f9173}
+      \strng{authorfullhash}{96b7b782a5bb3108306238045b0f9173}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Generative Pre-trained Transformers ({GPT}) and Large language models ({LLMs}) have made significant advancements in natural language processing in recent years. The practical applications of {LLMs} are undeniable, rendering moot any debate about their impending influence. The power of {LLMs} has made them similar to machine learning models for decision-making problems. In this paper, we focus on binary classification which is a common use of {ML} models, particularly in credit lending applications. We show how a {GPT} model can perform almost as accurately as a classical logistic machine learning model but with a much lower number of sample observations. In particular, we show how, in the context of credit lending, {LLMs} can be improved and reach performances similar to classical logistic regression models using only a small set of examples.}
+      \field{day}{1}
+      \field{issn}{2666-8270}
+      \field{journaltitle}{Machine Learning with Applications}
+      \field{month}{6}
+      \field{shortjournal}{Machine Learning with Applications}
+      \field{title}{{GPT} classifications, with application to credit lending}
+      \field{urlday}{19}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{100534}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.mlwa.2024.100534
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666827024000100
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666827024000100
+      \endverb
+      \keyw{Artificial intelligence,Credit decisions,Large language models}
+    \endentry
   \enddatalist
   \missing{model1}
   \missing{model2}
