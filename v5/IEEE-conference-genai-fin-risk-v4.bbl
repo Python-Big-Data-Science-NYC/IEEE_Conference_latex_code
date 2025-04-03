@@ -1,0 +1,263 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{teixeiraEnhancingCreditRisk2023}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=5c5fd5717026661e7836602a7ca9cfb8}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={Ana\bibnamedelima Clara},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=3036ad8981cfc9902b385fd12fc50e68}{%
+           family={Marar},
+           familyi={M\bibinitperiod},
+           given={Vaishali},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0760e645ce8bbb8e201462d1fc5ba81b}{%
+           family={Yazdanpanah},
+           familyi={Y\bibinitperiod},
+           given={Hamed},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1290a1d2e33b17f878ce01c3d8990331}{%
+           family={Pezente},
+           familyi={P\bibinitperiod},
+           given={Aline},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b576d328e9b0f4401d1363e5a30441ac}{%
+           family={Ghassemi},
+           familyi={G\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, {NY}, {USA}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{5f571bc2c76aab48eaf92489704ca7c1}
+      \strng{fullhash}{58b5046319c1a8b211894acff5116e90}
+      \strng{bibnamehash}{58b5046319c1a8b211894acff5116e90}
+      \strng{authorbibnamehash}{58b5046319c1a8b211894acff5116e90}
+      \strng{authornamehash}{5f571bc2c76aab48eaf92489704ca7c1}
+      \strng{authorfullhash}{58b5046319c1a8b211894acff5116e90}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Credit risk analysis is a process that involves a wide range of complex cognitive abilities. Automating the credit risk analysis process using Large Language Models can bring transformative changes to the finance industry, but not without appropriate measures to ensure trustworthy responses. In this work, we propose a novel prompt-engineering method that enhances the ability of Large Language Models to generate reliable credit risk reports - Labeled Guide Prompting ({LGP}). {LGP} consists of: (1) providing annotated few-shot examples to the {LLM} that denote sets of tokens in an exemplary prompt that are of greater importance when generating sets of tokens in the exemplary response and (2) providing text in the prompt that describes the direction, pathways and interactions between variables from a Bayesian network used for credit risk assessment, thus promoting abductive reasoning. Using data from 100 credit applications, we demonstrate that {LGP} enables {LLMs} to generate credit risk reports that are preferred by human credit analysts (in 60-90\% of cases) over alternative credit risk reports created by their peers in a blind review. Additionally, we found a statistically significant improvement (p-value \&lt; 10− 10) in the insightfulness of the responses generated using {LGP} when compared to identical prompts without {LGP} components. We conclude that Labeled Guide Prompting can enhance {LLM} performance in complex problem-solving tasks, achieving a level of competency comparable to or exceeding human experts.}
+      \field{booktitle}{Proceedings of the Fourth {ACM} International Conference on {AI} in Finance}
+      \field{day}{25}
+      \field{isbn}{979-8-4007-0240-2}
+      \field{month}{11}
+      \field{series}{{ICAIF} '23}
+      \field{shorttitle}{Enhancing Credit Risk Reports Generation using {LLMs}}
+      \field{title}{Enhancing Credit Risk Reports Generation using {LLMs}: An Integration of Bayesian Networks and Labeled Guide Prompting}
+      \field{urlday}{19}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{340\bibrangedash 348}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/3604237.3626902
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/j/snap/zotero-snap/common/Zotero/storage/AC3XMSIW/Teixeira et al. - 2023 - Enhancing Credit Risk Reports Generation using LLMs An Integration of Bayesian Networks and Labeled.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3604237.3626902
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3604237.3626902
+      \endverb
+    \endentry
+    \entry{sanz-guerreroCreditRiskMeets2024}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=a740760989b402e2af3658f56a1dc369}{%
+           family={Sanz-Guerrero},
+           familyi={S\bibinithyphendelim G\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b80e5d4ca13f41313b29bc9b2eb558ef}{%
+           family={Arroyo},
+           familyi={A\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{7d66662ba84e63931b4ad70689445345}
+      \strng{fullhash}{7d66662ba84e63931b4ad70689445345}
+      \strng{bibnamehash}{7d66662ba84e63931b4ad70689445345}
+      \strng{authorbibnamehash}{7d66662ba84e63931b4ad70689445345}
+      \strng{authornamehash}{7d66662ba84e63931b4ad70689445345}
+      \strng{authorfullhash}{7d66662ba84e63931b4ad70689445345}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Peer-to-peer (P2P) lending has emerged as a distinctive financing mechanism, linking borrowers with lenders through online platforms. However, P2P lending faces the challenge of information asymmetry, as lenders often lack sufficient data to assess the creditworthiness of borrowers. This paper proposes a novel approach to address this issue by leveraging the textual descriptions provided by borrowers during the loan application process. Our methodology involves processing these textual descriptions using a Large Language Model ({LLM}), a powerful tool capable of discerning patterns and semantics within the text. Transfer learning is applied to adapt the {LLM} to the specific task at hand. Our results derived from the analysis of the Lending Club dataset show that the risk score generated by {BERT}, a widely used {LLM}, significantly improves the performance of credit risk classifiers. However, the inherent opacity of {LLM}-based systems, coupled with uncertainties about potential biases, underscores critical considerations for regulatory frameworks and engenders trust-related concerns among end-users, opening new avenues for future research in the dynamic landscape of P2P lending and artificial intelligence.}
+      \field{day}{5}
+      \field{eprinttype}{arxiv}
+      \field{month}{8}
+      \field{number}{{arXiv}:2401.16458}
+      \field{shorttitle}{Credit Risk Meets Large Language Models}
+      \field{title}{Credit Risk Meets Large Language Models: Building a Risk Indicator from Loan Descriptions in P2P Lending}
+      \field{urlday}{19}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2401.16458
+      \endverb
+      \verb{eprint}
+      \verb 2401.16458 [q-fin]
+      \endverb
+      \verb{file}
+      \verb Preprint PDF:/home/j/snap/zotero-snap/common/Zotero/storage/RVTCUSIR/Sanz-Guerrero and Arroyo - 2024 - Credit Risk Meets Large Language Models Building a Risk Indicator from Loan Descriptions in P2P Len.pdf:application/pdf;Snapshot:/home/j/snap/zotero-snap/common/Zotero/storage/HKPGIUKZ/2401.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2401.16458
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2401.16458
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning,Quantitative Finance - Risk Management}
+    \endentry
+    \entry{khojaAIBondValues2024}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9240848d4b545960661989d4c892a40b}{%
+           family={Khoja},
+           familyi={K\bibinitperiod},
+           given={Moazzam},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rochester, {NY}}%
+      }
+      \list{publisher}{1}{%
+        {Social Science Research Network}%
+      }
+      \strng{namehash}{9240848d4b545960661989d4c892a40b}
+      \strng{fullhash}{9240848d4b545960661989d4c892a40b}
+      \strng{bibnamehash}{9240848d4b545960661989d4c892a40b}
+      \strng{authorbibnamehash}{9240848d4b545960661989d4c892a40b}
+      \strng{authornamehash}{9240848d4b545960661989d4c892a40b}
+      \strng{authorfullhash}{9240848d4b545960661989d4c892a40b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper investigates the potential of Large Language Models ({LLMs}) to interpret textual data from company earnings calls and assess default likelihood. Using {ChatGPT} to analyze earnings call transcripts, I find that {LLM}-derived default likelihoods enhance the predictability of corporate bond credit spreads, independent of stock prices and liquidity measures. By comparing actual credit spreads with counterfactual spreads predicted using {LLM}-based default likelihoods, I show that {LLMs} reduce serial correlation in credit spreads, indicating less under-reaction to information. This research highlights {LLMs}' role in improving market efficiency by providing a consistent method for processing textual data.}
+      \field{day}{20}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{4965227}
+      \field{shorttitle}{{AI} and Bond Values}
+      \field{title}{{AI} and Bond Values: How Large Language Models Predict Default Signals}
+      \field{urlday}{19}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.4965227
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/j/snap/zotero-snap/common/Zotero/storage/P7MRCR7U/Khoja - 2024 - AI and Bond Values How Large Language Models Predict Default Signals.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://papers.ssrn.com/abstract=4965227
+      \endverb
+      \verb{url}
+      \verb https://papers.ssrn.com/abstract=4965227
+      \endverb
+      \keyw{{AI} and Bond Values: How Large Language Models Predict Default Signals,Moazzam Khoja,{SSRN}}
+    \endentry
+    \entry{babaeiGPTClassificationsApplication2024}{article}{}
+      \name{author}{2}{}{%
+        {{hash=31956f5f0c1b92fef960e39353bfb3d4}{%
+           family={Babaei},
+           familyi={B\bibinitperiod},
+           given={Golnoosh},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3c81d4f45cf4aced45782e3f1978b2ac}{%
+           family={Giudici},
+           familyi={G\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{96b7b782a5bb3108306238045b0f9173}
+      \strng{fullhash}{96b7b782a5bb3108306238045b0f9173}
+      \strng{bibnamehash}{96b7b782a5bb3108306238045b0f9173}
+      \strng{authorbibnamehash}{96b7b782a5bb3108306238045b0f9173}
+      \strng{authornamehash}{96b7b782a5bb3108306238045b0f9173}
+      \strng{authorfullhash}{96b7b782a5bb3108306238045b0f9173}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Generative Pre-trained Transformers ({GPT}) and Large language models ({LLMs}) have made significant advancements in natural language processing in recent years. The practical applications of {LLMs} are undeniable, rendering moot any debate about their impending influence. The power of {LLMs} has made them similar to machine learning models for decision-making problems. In this paper, we focus on binary classification which is a common use of {ML} models, particularly in credit lending applications. We show how a {GPT} model can perform almost as accurately as a classical logistic machine learning model but with a much lower number of sample observations. In particular, we show how, in the context of credit lending, {LLMs} can be improved and reach performances similar to classical logistic regression models using only a small set of examples.}
+      \field{day}{1}
+      \field{issn}{2666-8270}
+      \field{journaltitle}{Machine Learning with Applications}
+      \field{month}{6}
+      \field{shortjournal}{Machine Learning with Applications}
+      \field{title}{{GPT} classifications, with application to credit lending}
+      \field{urlday}{19}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{100534}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.mlwa.2024.100534
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666827024000100
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666827024000100
+      \endverb
+      \keyw{Artificial intelligence,Credit decisions,Large language models}
+    \endentry
+  \enddatalist
+  \missing{model1}
+  \missing{model2}
+  \missing{model3}
+  \missing{model4}
+  \missing{ref1}
+  \missing{ref2}
+  \missing{ref3}
+  \missing{ref4}
+\endrefsection
+\endinput
+
